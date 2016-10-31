@@ -3,3 +3,5 @@ Ejercicio 1 del módulo 2, ejercicio P2P curso "Desarrollo en HTML5, CSS y Javas
 
 Ejercicio práctico sobre la creación de una página web en HTML5 ("página web"), con testing de diversas etiquetas básicas. Fácil de realizar.<br>
 http://santaeugenia.neocities.org/index2.html
+
+CC BY-NC-SA
